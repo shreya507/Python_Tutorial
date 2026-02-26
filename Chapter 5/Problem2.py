@@ -1,0 +1,28 @@
+s = set()
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+n = input("Enter number 1: ")
+s.add(int(n))
+print(s)
+
+
+s1 = set()
+s1.add(18)
+s1.add(18.0)
+s1.add("18") #s1.add('18')
+print(s1)
+print(len(s1))
+
+
